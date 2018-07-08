@@ -36,4 +36,4 @@ if (!directoryToSearch) throw new Error("No directory provided in args");
 
 console.log("started")
 processDir(directoryToSearch);
-console.log("Done")
+
